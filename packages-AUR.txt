@@ -1,0 +1,16 @@
+anydesk-bin 6.1.1-4
+aura-bin 3.2.5-1
+auto-cpufreq 1.6.4-1
+brave-bin 1:1.29.79-1
+cava 0.7.4-1
+etcher-bin 1.5.122-1
+jmtpfs 0.5-2
+nerd-fonts-source-code-pro 2.1.0-2
+onlyoffice-bin 6.3.1-2
+otf-font-awesome-4 4.7.0-5
+teams 1.4.00.13653-1
+ttf-font-awesome-4 4.7.0-5
+ttf-iosevka 10.1.1-1
+ttf-ms-fonts 2.0-12
+yay 10.3.1-2
+zoom 5.7.6a-1
